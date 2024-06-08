@@ -1,9 +1,8 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 # 💫 About Me:
+👋 Hello, I'm ANANDU AJESH 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+MERN+Stack+Developer)](https://git.io/typing-svg)
-
-<br><br>👋 Hello, I'm ANANDU AJESH !<br>Welcome to my GitHub profile! I'm a  dedicated Full Stack Developer  with a passion for turning your digital dreams into reality. .
-
+<br><br> I'm a  dedicated MERN Stack Developer  with a passion for turning your digital dreams into reality. .
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ananduajesh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandu-ajesh-90381a254/) 
