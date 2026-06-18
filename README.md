@@ -1,4 +1,4 @@
-![Anandu Ajesh Developer Banner](github-banner.png)
+![Anandu Ajesh Developer Banner](anandu.gif)
 # 💫 About Me:
 👋 Hello, I'm ANANDU AJESH 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+MERN+Stack+Developer)](https://git.io/typing-svg)
