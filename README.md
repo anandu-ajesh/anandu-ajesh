@@ -1,7 +1,7 @@
 ![Anandu Ajesh Developer Banner](anandu.gif)
 # 💫 About Me:
 👋 Hello, I'm ANANDU AJESH 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 <br><br> I'm a  dedicated Full Stack Developer  with a passion for turning your digital dreams into reality. .
 
 ## 🌐 Socials:
